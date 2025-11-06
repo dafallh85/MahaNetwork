@@ -1,0 +1,32 @@
+{
+  "name": "Maha Network",
+  "symbol": "MAHA",
+  "description": "Maha Network is a decentralized blockchain ecosystem that connects people, data, and value through the power of Web3 and smart contracts. Built on BNB Smart Chain (BEP-20), it enables secure, scalable, and transparent digital interactions.",
+  "blockchain": "BNB Smart Chain (BEP-20)",
+  "contract_address": "0xF0F5eFdEF74A32DfA614bC7796d514Fd07e2ebfA",
+  "total_supply": "1000000000",
+  "decimals": 18,
+  "type": "Utility Token",
+  "status": "Active",
+  "website": "https://mahanetwork5.com",
+  "twitter": "https://x.com/mahanetwork5",
+  "telegram_channel": "https://t.me/MahaNetwork",
+  "telegram_community": "https://t.me/mahanetwork5",
+  "github": "https://github.com/dafallh85/MahaNetwor",
+  "email": "maha@mahanetwork5.com",
+  "bscscan": "https://bscscan.com/address/0xF0F5eFdEF74A32DfA614bC7796d514Fd07e2ebfA",
+  "launch_date": "2025-01-15",
+  "transparency": {
+    "ownership": "Owner retains control (will renounce ownership after liquidity lock)",
+    "liquidity_lock": "Pending — liquidity pair not yet added"
+  },
+  "vision": "To connect the world through decentralized communication, identity, and data ownership powered by blockchain.",
+  "utilities": [
+    "Digital identity authentication",
+    "Smart contract integrations",
+    "Cross-chain expansion (Layer-2 planned)",
+    "AI-integrated communication tools"
+  ],
+  "tags": ["DeFi", "Web3", "Blockchain", "BEP20", "BNB", "MAHA", "Maha Network"],
+  "license": "MIT"
+}
