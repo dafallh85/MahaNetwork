@@ -11,7 +11,7 @@ Maha Network is a next-generation blockchain ecosystem designed to connect peopl
 - 🐦 **Twitter (X):** [https://x.com/mahanetwork5](https://x.com/mahanetwork5)  
 - 💬 **Telegram Channel:** [https://t.me/MahaNetwork](https://t.me/MahaNetwork)  
 - 🗣️ **Telegram Community:** [https://t.me/mahanetwork5](https://t.me/mahanetwork5)  
-- 💻 **GitHub:** [https://github.com/dafallh85/MahaNetwor](https://github.com/dafallh85/MahaNetwor)  
+- 💻 **GitHub:** [https://github.com/dafallh85/MahaNetwor](https://github.com/dafallh85/MahaNetwork 
 - ✉️ **Email:** [maha@mahanetwork5.com](mailto:maha@mahanetwork5.com)  
 - 🔍 **BscScan:** [https://bscscan.com/address/0xF0F5eFdEF74A32DfA614bC7796d514Fd07e2ebfA](https://bscscan.com/address/0xF0F5eFdEF74A32DfA614bC7796d514Fd07e2ebfA)
 
