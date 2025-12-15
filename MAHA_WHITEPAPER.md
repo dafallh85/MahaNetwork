@@ -84,8 +84,8 @@ Total Supply: **1,000,000,000 MAHA**
 ---
 
 ## 👥 Team
-- Founder & Project Lead — **ضيف الله المالكي**  
-- Blockchain Developer — **(نفس الفريق المعتمد سابقاً)**  
+- Founder & Project Lead —  
+- Blockchain Developer —   
 - Marketing Director  
 - Community Manager  
 - Strategic Partners Unit  
