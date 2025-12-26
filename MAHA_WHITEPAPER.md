@@ -17,17 +17,6 @@ Total Supply: **1,000,000,000 MAHA**
 Launch Date: **5 January 2025**
 
 ---
-
-## 🌍 Official Links
-
-- 🌐 Website: https://mahanetwork.net  
-- 🐦 Twitter (X): https://x.com/mahanetwork5  
-- 📢 Telegram Channel: https://t.me/MahaNetwork  
-- 👥 Telegram Community: https://t.me/mahanetwork5  
-- 💼 GitHub: https://github.com/dafallh85/MahaNetwork  
-- ✉️ Official Email: maha@mahanetwork.net  
-- 👤 Founder Contact: https://t.me/Token_Officer  
-
 ---
 
 ## 📘 Whitepaper
