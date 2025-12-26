@@ -8,13 +8,8 @@
   "decimals": 18,
   "type": "Utility Token",
   "status": "Active",
-  "website": "https://mahanetwork.net",
-  "twitter": "https://x.com/mahanetwork5",
-  "telegram_channel": "https://t.me/MahaNetwork",
-  "telegram_community": "https://t.me/mahanetwork5",
-  "github": "https://github.com/dafallh85/MahaNetwork",
-  "email": "maha@mahanetwork.net",
-  "bscscan": "https://bscscan.com/address/0xF0F5eFdEF74A32DfA614bC7796d514Fd07e2ebfA",
+ 
+  "bscscan": 0xF0F5eFdEF74A32DfA614bC7796d514Fd07e2ebfA
   "launch_date": "2025-01-15",
   "transparency": {
     "ownership": "Owner retains control (will renounce ownership after liquidity lock)",
