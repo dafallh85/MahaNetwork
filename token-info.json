@@ -5,12 +5,6 @@
   "decimals": 18,
   "supply": "1000000000",
   "network": "BNB Smart Chain",
-  "explorer": "https://bscscan.com/token/0xF0F5eFdEF74A32DfA614bC7796d514Fd07e2ebfA",
-  "website": "https://mahanetwork.net",
-  "twitter": "https://x.com/mahanetwork5",
-  "telegram": "https://t.me/MahaNetwork",
-  "community": "https://t.me/mahanetwork5",
-  "email": "maha@mahanetwork.net",
-  "github": "https://github.com/dafallh85/MahaNetwork",
+  "explorer": "0xF0F5eFdEF74A32DfA614bC7796d514Fd07e2ebfA",
   "status": "active"
 }
